@@ -9,11 +9,11 @@ This organization contains all the important repositories required to build cust
 ### Required device specific repositories
 * [**Device tree (xaga)**](https://github.com/xaga-dev/android_device_xiaomi_xaga) (`android_device_xiaomi_xaga`)
 * [**Device tree (common)**](https://github.com/xaga-dev/android_device_xiaomi_mt6895-common) (`android_device_xiaomi_mt6895-common`)
-* [**Vendor tree (xaga)**](https://gitlab.com/angxddeep/android_vendor_xiaomi_xaga) (`android_vendor_xiaomi_xaga`)
-* [**Vendor tree (common)**](https://gitlab.com/angxddeep/android_vendor_xiaomi_mt6895-common) (`android_vendor_xiaomi_mt6895-common`)
+* [**Vendor tree (xaga)**](https://gitlab.com/angxddeep/proprietary_vendor_xiaomi_xaga) (`proprietary_vendor_xiaomi_xaga`)
+* [**Vendor tree (common)**](https://gitlab.com/angxddeep/proprietary_vendor_xiaomi_mt6895-common) (`proprietary_vendor_xiaomi_mt6895-common`)
 * [**Kernel tree**](https://github.com/xaga-dev/android_kernel_xiaomi_mt6895) (`android_kernel_xiaomi_mt6895`)
 * [**Miuicamera-xaga tree**](https://github.com/xaga-dev/android_device_xiaomi_miuicamera-xaga) (`android_device_xiaomi_miuicamera-xaga`)
-* [**Miuicamera-xaga Vendor tree**](https://gitlab.com/angxddeep/android_vendor_xiaomi_miuicamera-xaga) (`android_device_xiaomi_miuicamera-xaga`)
+* [**Miuicamera-xaga Vendor tree**](https://gitlab.com/angxddeep/proprietary_vendor_xiaomi_miuicamera-xaga) (`proprietary_vendor_xiaomi_miuicamera-xaga`)
 
 ### Other required repositories
 * [**MediaTek sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
