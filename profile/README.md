@@ -1,7 +1,7 @@
 ## Xaga Project - Personal extras
 <img align="right" width="180" height="180" src="https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1653384568.5698588.png">
 
-This organization contains repositories to build AOSP ROMs for POCO X4 GT / Redmi K50i / Redmi Note 11T Pro(+) (xaga)
+This organization contains repositories to build [Pixelos](https://pixelos.net/) 17 ROMs for POCO X4 GT / Redmi K50i / Redmi Note 11T Pro(+) (xaga) although other Roms should build just fine.
 
 ### Required device specific repositories
 * [**Device Tree (xaga)**](https://github.com/xaga-dev/android_device_xiaomi_xaga.git) (`android_device_xiaomi_xaga`)
@@ -18,6 +18,6 @@ This organization contains repositories to build AOSP ROMs for POCO X4 GT / Redm
 * [**MiuiCamera Vendor Tree**](https://gitlab.com/angxddeep/proprietary_vendor_xiaomi_miuicamera-xaga) (`proprietary_vendor_xiaomi_miuicamera-xaga`)
 
 
-### Required patches
-* [**Return false for GetDeviceLockStatus() if fenrir=true**](https://github.com/xaga-dev/android_system_core/commit/f443c69db2291f7c156be86ba21ee0d7543ab4e7) (`android_system_core`)
-* [**Add xiaomi packages to the whitelist**](https://github.com/xaga-dev/android_build_soong/commit/fd57a35469af2616f6378bc53516c8c648215f91) (`android_build_soong`)
+### Relevant patches required
+
+*  [**Patches**](https://github.com/Angxddeep/android_vendor_extra/tree/seventeen/patches/xaga)
