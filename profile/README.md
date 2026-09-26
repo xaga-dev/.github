@@ -20,4 +20,4 @@ This organization contains repositories to build [Pixelos](https://pixelos.net/)
 
 ### Relevant patches required
 
-*  [**Patches**](https://github.com/Angxddeep/android_vendor_extra/tree/seventeen/patches/xaga)
+*  [**Patches**](https://github.com/xaga-dev/android_vendor_patches-xaga)
