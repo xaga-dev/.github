@@ -1,7 +1,7 @@
-## Xaga Project - Personal extras
+## Xaga-Dev 
 <img align="right" width="180" height="180" src="https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1653384568.5698588.png">
 
-This organization contains repositories to build [Pixelos](https://pixelos.net/) 17 ROMs for POCO X4 GT / Redmi K50i / Redmi Note 11T Pro(+) (xaga) although other Roms should build just fine.
+This organization contains repositories to build LineageOS ROM for POCO X4 GT / Redmi K50i / Redmi Note 11T Pro(+) (xaga) although other Roms should build just fine.
 
 ### Required device specific repositories
 * [**Device Tree (xaga)**](https://github.com/xaga-dev/android_device_xiaomi_xaga.git) (`android_device_xiaomi_xaga`)
